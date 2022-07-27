@@ -17,6 +17,12 @@
     <LibraryReferences>{3f3c9d81-a634-4017-a121-f0b6962873c1}</LibraryReferences>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Class Diagram.TcCD">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FB_Machine.TcPOU">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="PlcTask.TcTTO">
       <SubType>Code</SubType>
     </Compile>
