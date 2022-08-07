@@ -39,7 +39,7 @@
     <Compile Include="POUs\MAIN.TcPOU">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="POUs\POU_TestGit.TcPOU">
+    <Compile Include="POUs\POU_TestGit1.TcPOU">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
